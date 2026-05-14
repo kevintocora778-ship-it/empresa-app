@@ -1,1 +1,2 @@
-# empresa-app
+# Sistema empresarial usando GitFlow
+
